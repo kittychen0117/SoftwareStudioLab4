@@ -9,9 +9,9 @@ SoftwareStudio Lab4 2016
 
 # 組員二
 
-姓名：
+姓名：劉凌君
 
-學號：
+學號：103062205
 
 #Screenshot
 
